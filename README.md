@@ -17,4 +17,4 @@ Currently, the repository contains the following:
 ## License
 Copyright (c) 2010 Kyle Florence  
 Licensed under the GNU General Public License.  
-[http://www.gnu.org/licenses/gpl.html] http://www.gnu.org/licenses/gpl.html
+[http://www.gnu.org/licenses/gpl.html](http://www.gnu.org/licenses/gpl.html)
