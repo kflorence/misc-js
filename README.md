@@ -13,6 +13,7 @@ Currently, the repository contains the following:
 *   jQuery.isEmpty - Used to find out whether or not a String (zero character
     length), Array (no elements) or Object (no properties) is "empty."
 *   jQuery.isNumber - Used to determine if a value is truly, in fact, a number.
+*	jQuery.isVersion - Used for jQuery version test cases.
 
 ## License
 Copyright (c) 2010 Kyle Florence  
