@@ -7,13 +7,15 @@ Currently, the repository contains the following:
 
 ## jQuery
 
-*   jQuery.getLength - Used to find the length of Strings (character count),
+*   __jQuery.getLength__ - Used to find the length of Strings (character count),
     Arrays (element count) and Objects (property count, excluding prototype-
     inherited properties).
-*   jQuery.isEmpty - Used to find out whether or not a String (zero character
+*   __jQuery.getObjectFromArray__ - Used to return an Object from an Array of Objects
+    by matching a key within the Objects to a value.
+*   __jQuery.isEmpty__ - Used to find out whether or not a String (zero character
     length), Array (no elements) or Object (no properties) is "empty."
-*   jQuery.isNumber - Used to determine if a value is truly, in fact, a number.
-*	jQuery.isVersion - Used for jQuery version test cases.
+*   __jQuery.isNumber__ - Used to determine if a value is truly, in fact, a number.
+*   __jQuery.isVersion__ - Used for jQuery version test cases.
 
 ## License
 Copyright (c) 2010 Kyle Florence  
